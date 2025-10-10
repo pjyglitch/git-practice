@@ -1,0 +1,32 @@
+total 816
+-rwxr-xr-x@  1 parkjiyoung  staff    33K  9 15 10:31 A
+-rw-r--r--@  1 parkjiyoung  staff   1.3K  9 15 10:31 A.c
+-rw-r--r--@  1 parkjiyoung  staff     4B  9 18 09:49 createqrcode.py
+drwx------+ 13 parkjiyoung  staff   416B 10  2 14:18 Desktop
+drwx------+ 24 parkjiyoung  staff   768B 10  1 15:25 Documents
+drwx------+ 66 parkjiyoung  staff   2.1K 10  4 10:33 Downloads
+-rw-r--r--@  1 parkjiyoung  staff   635B  9 26 15:05 exercise 2.c
+-rwxr-xr-x@  1 parkjiyoung  staff    33K  9 25 03:27 exercise1
+-rw-r--r--@  1 parkjiyoung  staff   598B  9 25 04:19 exercise1.c
+-rw-r--r--   1 parkjiyoung  staff     0B 10  4 10:34 file_list.txt
+-rwxr-xr-x@  1 parkjiyoung  staff    33K  9 25 04:22 HW#2_202534818_박지영
+-rw-r--r--@  1 parkjiyoung  staff   2.0K 10  2 13:49 lab practice.c
+-rwxr-xr-x@  1 parkjiyoung  staff    33K 10  1 15:23 Lab#02
+-rw-r--r--@  1 parkjiyoung  staff   480B 10  2 13:49 Lab#02.c
+-rwxr-xr-x@  1 parkjiyoung  staff    33K  9 29 00:53 lab3_1
+-rw-r--r--@  1 parkjiyoung  staff   988B  9 29 16:45 lab3_1.c
+-rwxr-xr-x@  1 parkjiyoung  staff    33K  9 29 09:51 lab3_2
+-rw-r--r--@  1 parkjiyoung  staff   454B  9 29 09:50 lab3_2.c
+-rwxr-xr-x@  1 parkjiyoung  staff    33K  9 29 10:32 lab3_3
+-rw-r--r--@  1 parkjiyoung  staff   658B  9 29 10:32 lab3_3.c
+-rwxr-xr-x@  1 parkjiyoung  staff    33K  9 29 16:38 lab3_4
+-rw-r--r--@  1 parkjiyoung  staff   597B  9 29 16:38 lab3_4.c
+drwx------@ 91 parkjiyoung  staff   2.8K  9 20 00:02 Library
+drwx------   4 parkjiyoung  staff   128B  9  7 05:28 Movies
+drwx------+  6 parkjiyoung  staff   192B  9 23 20:30 Music
+drwx------+  5 parkjiyoung  staff   160B  9 11 21:53 Pictures
+drwxr-xr-x+  4 parkjiyoung  staff   128B  9  5 23:57 Public
+-rwxr-xr-x@  1 parkjiyoung  staff    33K 10  1 15:24 tempCodeRunnerFile
+-rw-r--r--@  1 parkjiyoung  staff   478B 10  1 15:24 tempCodeRunnerFile.c
+-rwxr-xr-x@  1 parkjiyoung  staff    33K 10  1 15:26 실행되는지
+-rw-r--r--@  1 parkjiyoung  staff    67B 10  2 13:49 실행되는지.c
